@@ -1,6 +1,6 @@
-host = 'host.docker.internal'
-passwd = 'password'
 db = 'TESTDB'
-charset = 'utf8mb4'
-port = 3306
+host = 'host.docker.internal'
 user = 'root'
+charset = 'utf8mb4'
+passwd = 'password'
+port = 3306
